@@ -2,7 +2,7 @@ import Feed from "@components/Feed";
 
 const Home = () => {
   return (
-    <section className="flex-col w-full flex-center">
+    <section className="flex flex-col items-center justify-center w-full">
       <h1 className="text-center head_text">
         Discover & Share
         <br className="max-md:hidden" />
